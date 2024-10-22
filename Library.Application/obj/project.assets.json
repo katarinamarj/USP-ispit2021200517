@@ -1202,11 +1202,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hp\\Desktop\\Library\\Library.Application\\Library.Application.csproj",
+      "projectUniqueName": "C:\\Users\\Hp\\Desktop\\faks\\USP\\Library\\Library.Application\\Library.Application.csproj",
       "projectName": "Library.Application",
-      "projectPath": "C:\\Users\\Hp\\Desktop\\Library\\Library.Application\\Library.Application.csproj",
+      "projectPath": "C:\\Users\\Hp\\Desktop\\faks\\USP\\Library\\Library.Application\\Library.Application.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hp\\Desktop\\Library\\Library.Application\\obj\\",
+      "outputPath": "C:\\Users\\Hp\\Desktop\\faks\\USP\\Library\\Library.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1223,8 +1223,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Hp\\Desktop\\Library\\Library.Domain\\Library.Domain.csproj": {
-              "projectPath": "C:\\Users\\Hp\\Desktop\\Library\\Library.Domain\\Library.Domain.csproj"
+            "C:\\Users\\Hp\\Desktop\\faks\\USP\\Library\\Library.Domain\\Library.Domain.csproj": {
+              "projectPath": "C:\\Users\\Hp\\Desktop\\faks\\USP\\Library\\Library.Domain\\Library.Domain.csproj"
             }
           }
         }

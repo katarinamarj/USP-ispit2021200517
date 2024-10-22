@@ -987,11 +987,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hp\\Desktop\\Library\\Library.UnitTests\\Library.UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\Hp\\Desktop\\faks\\USP\\Library\\Library.UnitTests\\Library.UnitTests.csproj",
       "projectName": "Library.UnitTests",
-      "projectPath": "C:\\Users\\Hp\\Desktop\\Library\\Library.UnitTests\\Library.UnitTests.csproj",
+      "projectPath": "C:\\Users\\Hp\\Desktop\\faks\\USP\\Library\\Library.UnitTests\\Library.UnitTests.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hp\\Desktop\\Library\\Library.UnitTests\\obj\\",
+      "outputPath": "C:\\Users\\Hp\\Desktop\\faks\\USP\\Library\\Library.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

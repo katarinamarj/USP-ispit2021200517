@@ -943,11 +943,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hp\\Desktop\\Library\\Library.Domain\\Library.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Hp\\Desktop\\faks\\USP\\Library\\Library.Domain\\Library.Domain.csproj",
       "projectName": "Library.Domain",
-      "projectPath": "C:\\Users\\Hp\\Desktop\\Library\\Library.Domain\\Library.Domain.csproj",
+      "projectPath": "C:\\Users\\Hp\\Desktop\\faks\\USP\\Library\\Library.Domain\\Library.Domain.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hp\\Desktop\\Library\\Library.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Hp\\Desktop\\faks\\USP\\Library\\Library.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

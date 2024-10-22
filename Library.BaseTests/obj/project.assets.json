@@ -3409,11 +3409,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hp\\Desktop\\Library\\Library.BaseTests\\Library.BaseTests.csproj",
+      "projectUniqueName": "C:\\Users\\Hp\\Desktop\\faks\\USP\\Library\\Library.BaseTests\\Library.BaseTests.csproj",
       "projectName": "Library.BaseTests",
-      "projectPath": "C:\\Users\\Hp\\Desktop\\Library\\Library.BaseTests\\Library.BaseTests.csproj",
+      "projectPath": "C:\\Users\\Hp\\Desktop\\faks\\USP\\Library\\Library.BaseTests\\Library.BaseTests.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hp\\Desktop\\Library\\Library.BaseTests\\obj\\",
+      "outputPath": "C:\\Users\\Hp\\Desktop\\faks\\USP\\Library\\Library.BaseTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3430,11 +3430,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Hp\\Desktop\\Library\\Library.API\\Library.API.csproj": {
-              "projectPath": "C:\\Users\\Hp\\Desktop\\Library\\Library.API\\Library.API.csproj"
+            "C:\\Users\\Hp\\Desktop\\faks\\USP\\Library\\Library.API\\Library.API.csproj": {
+              "projectPath": "C:\\Users\\Hp\\Desktop\\faks\\USP\\Library\\Library.API\\Library.API.csproj"
             },
-            "C:\\Users\\Hp\\Desktop\\Library\\Library.Application\\Library.Application.csproj": {
-              "projectPath": "C:\\Users\\Hp\\Desktop\\Library\\Library.Application\\Library.Application.csproj"
+            "C:\\Users\\Hp\\Desktop\\faks\\USP\\Library\\Library.Application\\Library.Application.csproj": {
+              "projectPath": "C:\\Users\\Hp\\Desktop\\faks\\USP\\Library\\Library.Application\\Library.Application.csproj"
             }
           }
         }

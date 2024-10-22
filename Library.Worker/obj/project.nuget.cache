@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qYx3E7yGs1o=",
+  "dgSpecHash": "dMoHbuBwF6o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hp\\Desktop\\Library\\Library.Worker\\Library.Worker.csproj",
+  "projectFilePath": "C:\\Users\\Hp\\Desktop\\faks\\USP\\Library\\Library.Worker\\Library.Worker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hp\\.nuget\\packages\\ardalis.smartenum\\8.1.0\\ardalis.smartenum.8.1.0.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",

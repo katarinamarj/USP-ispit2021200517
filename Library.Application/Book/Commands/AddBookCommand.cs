@@ -2,7 +2,7 @@
 
 using MediatR;
 
-public class AddBookCommand : IRequest<int>
+public record AddBookCommand : IRequest<int>
 {
     public int BookId { get; set; }  
 
